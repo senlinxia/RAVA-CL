@@ -4,6 +4,10 @@ This repository is the PyTorch implementation for the paper:
 > ``Target detection in sea clutter via contrastive learning,''
 > *IEEE Transactions on Instrumentation and Measurement*, 2023. [[paper](https://ieeexplore.ieee.org/document/10168724)]
 
+<p align="center"> 
+  <img src="teaser.png" width="350"/>
+</p>
+
 Contact: [xiasenlin0810@gmail.com](mailto:xiasenlin0810@gmail.com)
 
 ## Citation
