@@ -5,7 +5,7 @@ This repository is the PyTorch implementation for the paper:
 > *IEEE Transactions on Instrumentation and Measurement*, 2023. [[paper](https://ieeexplore.ieee.org/document/10168724)]
 
 <p align="center"> 
-  <img src="TIM2023.png" width="350"/>
+  <img src="TIM2023.png" width="650"/>
 </p>
 
 Contact: [xiasenlin0810@gmail.com](mailto:xiasenlin0810@gmail.com)
