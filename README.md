@@ -1,2 +1,2 @@
 # RAVA-CL
-Target Detection in Sea Clutter via Contrastive Learning
+This repository is the PyTorch implementation for the paper:
