@@ -16,8 +16,8 @@ Contact: [xiasenlin0810@gmail.com](mailto:xiasenlin0810@gmail.com)
     author={Xia, Senlin and Kong, Yukai and Xiong, Kui and Cui, Guolong},
     journal={IEEE Transactions on Instrumentation and Measurement},
     year={2023},
-    volume={},
+    volume={72},
     number={},
-    pages={1-1},
+    pages={1-13},
     doi={10.1109/TIM.2023.3288254}
     }
